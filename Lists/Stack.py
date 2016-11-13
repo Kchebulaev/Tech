@@ -65,4 +65,4 @@ class fillStack(object):
 stack = fillStack(random.randint(1,100))
 while stack.stack.ll.head:
     poped = stack.stack.pop()
-    print poped.value
+    print poped.value 
